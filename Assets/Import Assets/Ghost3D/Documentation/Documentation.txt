@@ -1,0 +1,52 @@
+	
+--------------Ghost 3D----------------------------
+
+Low poly 3d model of "Ghost" perfectly fit for any kind of your game.
+
+Whats New:
+
+	Added new Skin's for white ghost,to use it
+ 	- Goto the folder, Material > Ghost > White ghost skins
+	- Drag and drop any material to use it(Example: "Sad".Material, "Smile".Material)
+
+Technical Details:-
+		
+		- Vertex count : 1157
+		- Triangle count : 2254
+		- Used Material(s) : Universal Render Pipeline/Lit
+		- Texture maps : Albedo, Metalic, Normal, Emission(For some parts).
+
+Features:-
+	- More than 8 Basic Animations(Idle, Run, Hit .etc)
+	- Low poly design
+	- Unwrapped
+	- 3 Skin(s) included
+	- Easy to change colors
+	- 1 Meshes included in this package
+	- Included post processing layers
+	- Demo scenes included
+	- Demo Scripts(C#) Included
+	
+Folder details:-
+
+	Materials : Where the materials for the model located.
+	
+	Meshes : Contain FBX format of the 3d model.
+	
+	Textures : Contains Textures, that are in (.PNG) file format
+	
+	(Other folders - Prefabs, Scenes)
+
+How to use:-
+	
+	Simply drag and drop the "Ghost" prefab to your scene and use it.
+	(Prefab(s) located under 
+	Asset > Ghost3D > Prefabs).
+
+..................................................................................
+
+About Us : We are "SR Studios Kerala", Game developing company located in Alappuzha, Kerala, India
+
+Contact : srstudioskerala@gmail.com
+
+................Thanks for downloading this package................................
